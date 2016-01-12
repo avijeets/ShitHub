@@ -1,0 +1,15 @@
+{
+  "name": "shithub",
+  "version":"0.0.1",
+  "main": "shithub_server.js",
+  "description": "Showcase projects with technologies used and comments.",
+  "dependencies": {"ecstatic": ">=0.5.0"},
+  "licenses": [{"type": "MIT",
+                "url": "http://opensource.org/licenses/MIT"}],
+  "homepage": "http://avijeets.com/",
+  "maintainers":[{"name": "Avijeet Sachdev",
+                  "email": "a@avijeets.com",
+                  "web": "http://avijeets.com"}],
+  "repository": {"type": "git",
+                 "url": "https://github.com/avijeets/shithub"}
+}
