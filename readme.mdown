@@ -2,3 +2,5 @@ ShitHub
 ====
 
 Fun, quick hack using Node.js that lets you add projects with a description of languages/frameworks used and a comments section for feedback.
+
+![shithub](https://raw.githubusercontent.com/avijeets/ShitHub/master/screenshot.png)
