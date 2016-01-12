@@ -1,0 +1,4 @@
+ShitHub
+====
+
+Fun, quick hack using Node.js that lets you add projects with a description of languages/frameworks used and a comments section for feedback.
